@@ -11,10 +11,11 @@ G4 propensity for a given gene was predicted using the G4Hunter algorithm which 
 15.5 % harbors G4 (absent=21141; present=3880) of the 588 gene signatures based on machine learning model  associated with future health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data]
 [Figure 2A](fig/2A-g4-propensity-scores-within-trans-cfRNA-preterm-preclamp.png)
 [Figure 2B](fig/2B-g4-propensity-and-G4-counts-per-trans-cfRNA-preterm-preclamp.png)
+
 [R code](./g4hunter-map-ga-preeclamsia-cfrna.R)
 
 16.05 % harbors G4 (absent=316110; present=60471) of the 9582 gene signatures associated with future health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data]
-[Figure 3](fig/3A-ga-24h-adult-fetal-violin-G4score-G4hunter-RM2022.png)
+![Figure 3](fig/3A-ga-24h-adult-fetal-violin-G4score-G4hunter-RM2022.png)
 
 
 16.68% G4 (absent=2922; present=585) in the DE set of cfRNA from early prediction of preclampsia [Moufarrej MN. et al 2022]
