@@ -18,6 +18,8 @@ health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data]
 
 16.05 % harbors G4 (absent=316110; present=60471) of the 
 9582 gene signatures associated with future health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data]
+
+
 ![Figure 3](fig/3A-ga-24h-adult-fetal-violin-G4score-G4hunter-RM2022.png)
 
 
