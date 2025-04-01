@@ -5,4 +5,6 @@ Identification of G-quadruplex (G4) structures in the cell-free RNA transcripomi
 
 Additionally, single cell rnaseq data from normal, early-onset preeclampsia and late-onset preeclampsia, we performed Seurat scRNA analysis, and Type 1 interferon pathway-related genes were found to be enriched across the groups (Figure 2C). 
 
+![Figure 2](./figures/fig2.png)
+
 Also, we performed cell type-specific differential expression analysis, and the top 500 genes were used for building machine learning models (random forests and XGBoost) with 5-fold cross-validation highlighting probable differential pathways across cell-type gene regulatory pathway enrichments.
