@@ -17,13 +17,18 @@ health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data]
 [R code](./g4hunter-map-ga-preeclamsia-cfrna.R)
 
 16.05 % harbors G4 (absent=316110; present=60471) of the 
-9582 gene signatures associated with future health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data]
-
+9582 gene signatures associated with future health and disease in pregnancy [Rasmussen M, et al 2022 cfRNA data] [R code](./g4hunter-ga-24h-adult-fetal.R)
 
 ![Figure 3](fig/3A-ga-24h-adult-fetal-violin-G4score-G4hunter-RM2022.png)
 
 
-16.68% G4 (absent=2922; present=585) in the DE set of cfRNA from early prediction of preclampsia [Moufarrej MN. et al 2022]
- 
+16.68% G4 (absent=2922; present=585) in the DE set of cfRNA from 
+early prediction of preclampsia [Moufarrej MN. et al 2022]
+
+[Figure 4A](fig/4A-g4-propensity-scores-within-trans-cfRNA-preclamp.png)
+
+[Figure 4B](fig/4B-g4-propensity-and-G4-counts-per-trans-cfRNA-preclamp.png)
+[R code](./g4hunter-pre.R)
+
 
 
