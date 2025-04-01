@@ -7,4 +7,11 @@ Additionally, single cell rnaseq data from normal, early-onset preeclampsia and 
 
 ![Figure 2](./figures/fig2.png)
 
-Also, we performed cell type-specific differential expression analysis, and the top 500 genes were used for building machine learning models (random forests and XGBoost) with 5-fold cross-validation highlighting probable differential pathways across cell-type gene regulatory pathway enrichments.
+Also, we performed cell type-specific differential expression analysis, and the top 
+500 genes were used for building machine learning models (random forests and XGBoost)
+with 5-fold cross-validation highlighting probable differential pathways across 
+cell-type gene regulatory pathway enrichments.
+
+Codes for the analysis (A) [G4 propensity analysis](./g4-cfrna-pregnancy-preeclampsia/) and (B) [Re-analysis of scRNAseq data of immune cells in preclampsia](./sc-rnaseq-preeclampsia/)
+
+
